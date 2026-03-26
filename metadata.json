@@ -1,0 +1,5 @@
+{
+  "name": "AgriSmart",
+  "description": "A comprehensive platform for local farmers to access crop details, disease information, and climate outlooks with multi-lingual and offline support.",
+  "requestFramePermissions": ["geolocation"]
+}
